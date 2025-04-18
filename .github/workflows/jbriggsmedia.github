@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J.Briggs Media</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to J.Briggs Media</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>J.Briggs Media is a full-service creative agency founded and led by Joel Briggs, Owner & CEO. We specialize in digital media, print design, corporate branding, and multimedia production. Our team crafts powerful content—from social media management and website development to video production, photography, animation, and more. At J.Briggs Media, we turn ideas into visuals that connect, inspire, and convert.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 J.Briggs Media. All rights reserved.</p>
+    </footer>
+</body>
+</html>
